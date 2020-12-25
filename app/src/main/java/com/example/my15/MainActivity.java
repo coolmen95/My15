@@ -15,4 +15,5 @@ private ImageView rt;
         setContentView(R.layout.activity_main);
     }
 //chinh sua men
+    //chinh su lan 2
 }
