@@ -14,5 +14,5 @@ private ImageView rt;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
+//chinh sua men
 }
